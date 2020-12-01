@@ -2,11 +2,11 @@
 这个Project是专门用来给学弟学妹们分享一下我们当时学习小团体整理出来的一些复习资料。因为只有第一学期是线下考试，所以主要的资料还是以第一学期为主🌚。但是比如计算机视觉，我们当时是第一学期开的，但20届是第二学期开的，所以多了计算机视觉的复习资料🌜。如果你对这个Project满意的话，可以star✨这个项目哈。
 
 ## 内容
-* [Foundation of machine learning]()
-* [Foundation of artificial intelligence]()
-* [Intelligent Agent]()
-* [Computer Vision]()
-(后面或许会添加新的内容)
+* [Foundation of machine learning](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/FML)
+* [Foundation of artificial intelligence](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/FAI)
+* [Intelligent Agent](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/IA)
+* [Computer Vision](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/CV)
+* (后面或许会添加新的内容)
 
 ## 声明
 在阅读下面的资料之前，首先我需要事先声明几件事:
