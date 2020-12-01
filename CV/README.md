@@ -17,6 +17,6 @@ CV的考试，往年是六道题，3道图像处理，3道计算机视觉题目�
 5. [SIFT知识点整理](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/CV/SIFT%20%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93%20Xu.docx)。这个是视觉部分后半段一个比较重要的知识点。
 
 ## Book
-1. [特征提取与图像处理（2版](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/CV/Book/%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E4%B8%8E%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%EF%BC%882%E7%89%88%EF%BC%89.pdf)
+1. [特征提取与图像处理（2版)](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/CV/Book/%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96%E4%B8%8E%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%EF%BC%882%E7%89%88%EF%BC%89.pdf)
 2. [第三版Feature Extraction & Image Proc - Mark Nixon](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/CV/Book/%E7%AC%AC%E4%B8%89%E7%89%88Feature%20Extraction%20%26%20Image%20Proc%20-%20Mark%20Nixon.pdf)
 
