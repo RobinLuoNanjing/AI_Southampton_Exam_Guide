@@ -37,7 +37,7 @@
 最后放上一张图来纪念一下。这是当时圣诞节放假期间，图书馆开门的最后一天，因为是放假前夕，所以图书馆5点关门。但是当时的知识点还没梳理完，所以我们就在Hartley Library门口的台子上把问题讨论完了。
 
 最后祝愿你们也能找到一个能让你们复习更加轻松的团队！🌝
-![Team]()
+![Team](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/img/team.jpg)
 
 
 ## 关于以后
