@@ -11,7 +11,7 @@
 3. [FML 17-18 答案解析](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/FML/FML%2017-18%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90%20%E7%89%88%E6%9C%AC0.5%20Luo.docx)
 
 ## Book
-1.[Bishop-Pattern-Recognition-and-Machine-Learning-2006](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/FML/Book/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+1. [Bishop-Pattern-Recognition-and-Machine-Learning-2006](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/FML/Book/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 2. [Neural Network and Deep Learning-ch](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/FML/Book/Neural%20Network%20and%20Deep%20Learning-ch.pdf)
 3. [PRML中文版-模式识别与机器学习](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/FML/Book/PRML%E4%B8%AD%E6%96%87%E7%89%88-%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
 4. [周志华-机器学习](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/FML/Book/%E5%91%A8%E5%BF%97%E5%8D%8E-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)
