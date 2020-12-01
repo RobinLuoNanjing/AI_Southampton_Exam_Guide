@@ -8,7 +8,7 @@ IA考试虽然难，但还有相当一部分原因是因为，AI专业的考试�
 算是给自己找了个借口。
 
 ## Book
-1. [2017_Book_ModernApproachesToAgent-basedC]()
-2. [Wiley - An Introduction To Multiagent Systems \[Wooldridge\]]()
+1. [2017_Book_ModernApproachesToAgent-basedC](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/IA/Book/2017_Book_ModernApproachesToAgent-basedC.pdf)
+2. [Wiley - An Introduction To Multiagent Systems \[Wooldridge\]](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/IA/Book/Wiley%20-%20An%20Introduction%20To%20Multiagent%20Systems%20%5BWooldridge%5D.pdf)
 
 
