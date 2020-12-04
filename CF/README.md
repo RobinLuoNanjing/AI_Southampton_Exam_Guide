@@ -6,7 +6,7 @@
 虽然课程内容到后面会非常硬核，但是老师人比较好，上课前已经说了，考试题目大部分都是在每堂课的PPT的最后的那几个问题中。
 
 ## book
-1. [Mastering Bitcoin中文版]()
+1. [Mastering Bitcoin中文版](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/blob/main/CF/book/Mastering%20Bitcoin%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 
 
