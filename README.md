@@ -8,8 +8,8 @@
 * [Foundation of artificial intelligence](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/FAI)
 * [Intelligent Agent](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/IA)
 * [Computer Vision](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/CV)
-* [Deep Learning]()
-* [Computational Finance]()
+* [Deep Learning](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/DL)
+* [Computational Finance](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/CF)
 * (后面或许会添加新的内容)
 
 ## 声明
