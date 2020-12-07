@@ -35,10 +35,9 @@
 
 ## 感谢
 感谢当初一起奋斗过的童鞋:
-咸鱼🐟, Summer🍉, Ouyang🐛, Yihong🙉, Thunderland⚡️, Jieyao🐷, Zejian🐶, Master Mao🎅, Guo🗿.
+咸鱼🐟, Summer🍉, Ouyang🐛, Yihong🙉, Thunderland⚡️, Jieyao🐷, Zejian🐶, Master Mao🎅, Guo🗿. 感谢他们的原因主要是这些资料都不是我一个人搞出来的。
 
 当然还有其他的小组的成员以及往年的童鞋。
-
 
 最后放上一张图来纪念一下。这是当时圣诞节放假期间，图书馆开门的最后一天，因为是放假前夕，所以图书馆5点关门。但是当时的知识点还没梳理完，所以我们就在Hartley Library门口的台子上把问题讨论完了。
 想·
