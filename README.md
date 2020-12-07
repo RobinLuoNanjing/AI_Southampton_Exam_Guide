@@ -10,7 +10,7 @@
 * [Computer Vision](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/CV)
 * [Deep Learning](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/DL)
 * [Computational Finance](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/CF)
-* [教你如何使用ECS学院的四路1080ti服务器]() 
+* [教你如何使用ECS学院的四路1080ti服务器](https://github.com/RobinLuoNanjing/AI_Southampton_Exam_Guide/tree/main/Other) 
 * (后面或许会添加新的内容)
 
 ## 声明
